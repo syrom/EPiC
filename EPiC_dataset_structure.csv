@@ -1,0 +1,16 @@
+long_name;short_name;meaning;example_value
+timestamp_1;ts1;date;15.12.2018
+feature_0_lev1;f0_l1;year;2018
+feature_0_lev2;f0_l2;month;12
+feature_0_lev3;f0_l3;day;15
+feature_1;f1;sales_rep;Wilbur
+feature_2;f2;promo;yes
+feature_3;f3;customer;metropolis
+feature_4_hierarchy_lev1;f4_l1;ctry;Germany
+feature_4_hierarchy_lev2;f4_l2;state;BadWurt
+feature_4_hierarchy_lev3;f4_l3;city;Freiburg
+feature_5_hierarch_lev1;f5_l1;category;stationary
+feature_5_hierarchy_lev2;f5_l2;product;pen
+metric_1;m1;units;354
+metric_2;m2;price;23,95
+metric_3;m3;weight;2,82
